@@ -1,1 +1,2 @@
 # Gradient-Descent-N-Features-Boston-Data
+Gradient Descent Model made using "Gradient Descent - Boston Dataset_train.csv" file. Trained the model and got specific values for slopes (coefficient of features) and the intercept where the cost function is minimum. Then predicted the output from the given sets of inputs from "Gradient Descent - Boston Dataset_test.csv" file and saved its output in "Gradient_Descent_Boston_Dataset_output.csv" file. 
